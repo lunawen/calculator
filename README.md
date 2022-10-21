@@ -1,8 +1,9 @@
-[![Board Status](https://dev.azure.com/xinw0085/6319b3dd-1d92-49de-8a77-03f038a38b3a/00d941b4-3c7e-4978-868b-728e988300e8/_apis/work/boardbadge/bb3598d2-edd6-4461-94b1-d953d2d34e6c)](https://dev.azure.com/xinw0085/6319b3dd-1d92-49de-8a77-03f038a38b3a/_boards/board/t/00d941b4-3c7e-4978-868b-728e988300e8/Microsoft.RequirementCategory)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+
+[![Board Status](https://dev.azure.com/xinw0085/6319b3dd-1d92-49de-8a77-03f038a38b3a/00d941b4-3c7e-4978-868b-728e988300e8/_apis/work/boardbadge/bb3598d2-edd6-4461-94b1-d953d2d34e6c)](https://dev.azure.com/xinw0085/6319b3dd-1d92-49de-8a77-03f038a38b3a/_boards/board/t/00d941b4-3c7e-4978-868b-728e988300e8/Microsoft.RequirementCategory)
 
 [![Build Status](https://dev.azure.com/xinw0085/Parts%20Unlimited/_apis/build/status/lunawen.calculator?branchName=master)](https://dev.azure.com/xinw0085/Parts%20Unlimited/_build/latest?definitionId=5&branchName=master)
 
